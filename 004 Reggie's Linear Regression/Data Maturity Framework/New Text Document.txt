@@ -1,0 +1,3 @@
+http://www.datasciencepublicpolicy.org/home/resources/datamaturity/
+http://www.datasciencepublicpolicy.org/home/resources/data-science-project-scoping-guide/
+http://www.dssgfellowship.org/2015/11/04/what-makes-a-good-dssg-project/
